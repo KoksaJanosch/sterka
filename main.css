@@ -1,0 +1,21 @@
+@font-face {
+    font-family: amsansr;
+    src: url(amsansr.otf);
+    }
+
+body,html {
+font-family: amsansr;
+height: 100%;
+    }
+
+h1 {
+    text-decoration: underline;
+}
+
+a {
+    color:black;
+}
+
+a:hover {
+    color: darkblue;
+}
